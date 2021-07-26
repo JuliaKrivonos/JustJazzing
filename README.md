@@ -1,1 +1,1 @@
-# Just Jazzing
+# JustJazzing
